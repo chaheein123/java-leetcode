@@ -11,6 +11,6 @@ public class Main {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.modifyString("?zs"));
+        System.out.println(solution.restoreString("aiohn", new int[]{3,1,4,2,0}));
     }
 }
